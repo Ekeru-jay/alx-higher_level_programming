@@ -1,1 +1,4 @@
-'print(
+#!/usr/bin/python3
+james = 'print('He is a boy')'
+print(james)
+
